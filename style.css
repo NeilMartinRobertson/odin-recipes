@@ -12,6 +12,8 @@ a:active {
 
 body {
   background-color: rgb(0, 125, 235);
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  font-size: 20px;
 }
 
 body p {
