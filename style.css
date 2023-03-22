@@ -1,0 +1,55 @@
+a:link,
+a:visited {
+  text-decoration: none;
+  color: rgb(255, 142, 114);
+}
+a:hover,
+a:active {
+  text-decoration: underline;
+  color: aqua;
+  background-color: bisque;
+}
+
+body {
+  background-color: rgb(0, 125, 235);
+}
+
+body p {
+  color: red;
+}
+
+body li {
+  color: rgb(23, 243, 23);
+}
+
+li {
+  list-style: square;
+}
+
+h1 {
+  font-size: 45;
+  color: rgb(187, 255, 0);
+}
+
+h2 {
+  color: #ff00bf;
+}
+
+h3 {
+  color: hsl(123, 100%, 50%);
+}
+
+h4 {
+  color: bisque;
+}
+.link {
+  list-style: none;
+}
+
+.ordered {
+  list-style: circle;
+}
+
+.unordered {
+  list-style: georgian;
+}
